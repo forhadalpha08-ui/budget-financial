@@ -1,0 +1,10 @@
+{
+  "name": "Budget & Receipt Tracker",
+  "description": "A functional budgeting tool with visual spending reports, category tracking, and AI receipt scanning.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
